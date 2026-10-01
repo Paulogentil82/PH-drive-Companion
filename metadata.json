@@ -1,0 +1,6 @@
+{
+  "name": "PH Drive",
+  "description": "PH Drive Companion - Sincronização e rastreamento de viagens com persistência Room e integração Supabase",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PH Drive</string>
+    <string name="active_trip">Viagem em Andamento</string>
+    <string name="start_trip">Iniciar Viagem</string>
+    <string name="end_trip">Encerrar Viagem</string>
+    <string name="cancel_trip">Cancelar Viagem</string>
+    <string name="sync_now">Sincronizar Agora</string>
+</resources>
